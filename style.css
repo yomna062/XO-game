@@ -1,0 +1,85 @@
+/*.game{
+    width: 300px;
+    text-align: center;
+    color: white;
+    margin: auto;
+
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+   display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+
+}
+.title{
+    background-color: #ff006e;
+    margin: 5px;
+    padding: 5px ;
+}
+.square{
+    
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+       /* display: inline-block;*/
+    /*background-color:  #ff006e;
+    font-size: 50px;
+    display:inline-block;
+      }
+      
+
+.square:hover{
+    background-color: black;
+}
+.cont{
+   
+  /* justify-content: center;
+    align-content: center;
+    align-items: center;
+   display: flex;
+    flex-direction: row;
+    width: 200px;
+    height: 200px;*/
+   /* text-align: center;
+    max-width: 400px;
+}
+/*.square{
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .square {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  */
+     
+
+  .game{
+    width: 300px;
+    text-align: center;
+    color: white;
+    margin: auto;
+}
+.title{
+    background-color: #c91b5b;
+    margin: 5px;
+    padding: 5px ;
+}
+.square{
+    width: 80px;
+    height: 80px;
+    background-color:  #c91b5b;
+    display: inline-block;
+    margin: 10px 0px ;
+    font-size: 50px;
+    color: #c91b5b;
+}
+.square:hover{
+    background-color: black;
+    color: black;
+
+}
